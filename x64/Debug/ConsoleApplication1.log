@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Homie\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(9,51): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\Homie\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(9,51): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\Homie\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(9,51): warning C4309: инициализация: усечение константного значения
+C:\Users\Homie\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(9,110): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\Homie\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(9,110): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\Homie\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(9,110): warning C4309: инициализация: усечение константного значения
+  ConsoleApplication1.vcxproj -> C:\Users\Homie\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
